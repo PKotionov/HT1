@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ru.sbtqa:monte-media:1.1.0-JAVA7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/sbtqa/monte-media/1.1.0-JAVA7/monte-media-1.1.0-JAVA7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/sbtqa/monte-media/1.1.0-JAVA7/monte-media-1.1.0-JAVA7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/sbtqa/monte-media/1.1.0-JAVA7/monte-media-1.1.0-JAVA7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
